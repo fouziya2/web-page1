@@ -1,0 +1,16 @@
+<!Doctype html>
+<html>
+    <head> 
+        <title>sample page</title>
+    </head>
+    <body style="background-color: #125177;">
+        <h2 STYLE="color:aquamarine"><marquee>LANCHPAD PROGRAMM PRACTICE PAGE</marquee></h2>
+        <h1 style="color:blueviolet">Do you know me</h1>
+        <p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/A._P._J._Abdul_Kalam.jpg"height=100 width=100</p>
+        <p style="color:brown">A. P. J. Abdul Kalam</p>
+        <button style="color:black">about me</button>
+        <p style="color:#12772A ">A.P.J. Abdul Kalam (born October 15, 1931, Rameswaram, India—died July 27, 2015, Shillong)<br>
+         was an Indian scientist and politician who played a leading role in the development of India's<br> missile and nuclear weapons programs. 
+        He was president of India from 2002 to 2007.</p>
+    </body>
+</html>
